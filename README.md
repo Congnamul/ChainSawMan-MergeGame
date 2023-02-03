@@ -18,4 +18,5 @@
 위쪽에서 이루어지는 실시간 전투에 조합한 스킬을 사용해가며 마지막 보스까지 잡으면 엔딩을 볼 수 있는 게임입니다.
 
 
-<img src="https://user-images.githubusercontent.com/82988117/216677968-17a85e47-2e42-4d88-9a60-1bb054f71d44.png" width="60%"/>
+<img src="https://user-images.githubusercontent.com/82988117/216691092-db2994d9-06ed-40c2-88ad-ea2443aae52f.png" width="30%" />
+
